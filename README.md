@@ -1,4 +1,4 @@
-# This is a small plugin for ignoring patterns in a diff.
+# Vim plugin for ignoring patterns in a diff.
 
 ## Functions
 
